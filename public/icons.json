@@ -1,0 +1,123 @@
+{
+  "star": {
+    "name": "star",
+    "label": "Star",
+    "category": "rating",
+    "keywords": [
+      "favorite",
+      "rating",
+      "bookmark"
+    ],
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" strokeWidth=\"2\" strokeLinecap=\"round\" strokeLinejoin=\"round\"><polygon points=\"12,2 15.09,8.26 22,9.27 17,14.14 18.18,21.02 12,17.77 5.82,21.02 7,14.14 2,9.27 8.91,8.26 12,2\"/></svg>"
+  },
+  "smile": {
+    "name": "smile",
+    "label": "Smile",
+    "category": "emotions",
+    "keywords": [
+      "happy",
+      "emoji",
+      "face"
+    ],
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" strokeWidth=\"2\" strokeLinecap=\"round\" strokeLinejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"10\"/><path d=\"M8 14s1.5 2 4 2 4-2 4-2\"/><line x1=\"9\" y1=\"9\" x2=\"9.01\" y2=\"9\"/><line x1=\"15\" y1=\"9\" x2=\"15.01\" y2=\"9\"/></svg>"
+  },
+  "thumbs-up": {
+    "name": "thumbs-up",
+    "label": "Thumbs Up",
+    "category": "emotions",
+    "keywords": [
+      "like",
+      "approve",
+      "good"
+    ],
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" strokeWidth=\"2\" strokeLinecap=\"round\" strokeLinejoin=\"round\"><path d=\"M7 10v12\"/><path d=\"M15 5.88 14 10h5.83a2 2 0 0 1 1.92 2.56l-2.33 8A2 2 0 0 1 17.5 22H4a2 2 0 0 1-2-2v-8a2 2 0 0 1 2-2h2.76a2 2 0 0 0 1.79-1.11L12 2h3.73a2 2 0 0 1 1.92 2.56z\"/></svg>"
+  },
+  "coffee": {
+    "name": "coffee",
+    "label": "Coffee",
+    "category": "food-drink",
+    "keywords": [
+      "drink",
+      "caffeine",
+      "morning"
+    ],
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" strokeWidth=\"2\" strokeLinecap=\"round\" strokeLinejoin=\"round\"><path d=\"M18 8h1a4 4 0 0 1 0 8h-1\"/><path d=\"M2 8h16v9a4 4 0 0 1-4 4H6a4 4 0 0 1-4-4V8z\"/><line x1=\"6\" y1=\"1\" x2=\"6\" y2=\"4\"/><line x1=\"10\" y1=\"1\" x2=\"10\" y2=\"4\"/><line x1=\"14\" y1=\"1\" x2=\"14\" y2=\"4\"/></svg>"
+  },
+  "music": {
+    "name": "music",
+    "label": "Music",
+    "category": "media",
+    "keywords": [
+      "sound",
+      "audio",
+      "note"
+    ],
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" strokeWidth=\"2\" strokeLinecap=\"round\" strokeLinejoin=\"round\"><path d=\"M9 18V5l12-2v13\"/><circle cx=\"6\" cy=\"18\" r=\"3\"/><circle cx=\"18\" cy=\"16\" r=\"3\"/></svg>"
+  },
+  "camera": {
+    "name": "camera",
+    "label": "Camera",
+    "category": "media",
+    "keywords": [
+      "photo",
+      "picture",
+      "photography"
+    ],
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" strokeWidth=\"2\" strokeLinecap=\"round\" strokeLinejoin=\"round\"><path d=\"M23 19a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4l2-3h6l2 3h4a2 2 0 0 1 2 2z\"/><circle cx=\"12\" cy=\"13\" r=\"4\"/></svg>"
+  },
+  "gift": {
+    "name": "gift",
+    "label": "Gift",
+    "category": "objects",
+    "keywords": [
+      "present",
+      "birthday",
+      "surprise"
+    ],
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" strokeWidth=\"2\" strokeLinecap=\"round\" strokeLinejoin=\"round\"><polyline points=\"20,12 20,22 4,22 4,12\"/><rect x=\"2\" y=\"7\" width=\"20\" height=\"5\"/><line x1=\"12\" y1=\"22\" x2=\"12\" y2=\"7\"/><path d=\"M12 7H7.5a2.5 2.5 0 0 1 0-5C11 2 12 7 12 7z\"/><path d=\"M12 7h4.5a2.5 2.5 0 0 0 0-5C13 2 12 7 12 7z\"/></svg>"
+  },
+  "zap": {
+    "name": "zap",
+    "label": "Zap",
+    "category": "energy",
+    "keywords": [
+      "lightning",
+      "energy",
+      "power"
+    ],
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" strokeWidth=\"2\" strokeLinecap=\"round\" strokeLinejoin=\"round\"><polygon points=\"13,2 3,14 12,14 11,22 21,10 12,10 13,2\"/></svg>"
+  },
+  "flame": {
+    "name": "flame",
+    "label": "Flame",
+    "category": "energy",
+    "keywords": [
+      "fire",
+      "hot",
+      "energy"
+    ],
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" strokeWidth=\"2\" strokeLinecap=\"round\" strokeLinejoin=\"round\"><path d=\"M8.5 14.5A2.5 2.5 0 0 0 11 12c0-1.38-.5-2-1-3-1.072-2.143-.224-4.054 2-6 .5 2.5 2 4.9 4 6.5 2 1.6 3 3.5 3 5.5a7 7 0 1 1-14 0c0-1.153.433-2.294 1-3a2.5 2.5 0 0 0 2.5 2.5z\"/></svg>"
+  },
+  "crown": {
+    "name": "crown",
+    "label": "Crown",
+    "category": "objects",
+    "keywords": [
+      "royal",
+      "king",
+      "queen"
+    ],
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" strokeWidth=\"2\" strokeLinecap=\"round\" strokeLinejoin=\"round\"><path d=\"M2 18h20\"/><path d=\"M12 2l3 7 4-7 1 10H4l1-10z\"/></svg>"
+  },
+  "diamond": {
+    "name": "diamond",
+    "label": "Diamond",
+    "category": "objects",
+    "keywords": [
+      "gem",
+      "precious",
+      "jewel"
+    ],
+    "svg": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" strokeWidth=\"2\" strokeLinecap=\"round\" strokeLinejoin=\"round\"><path d=\"M6 3h12l4 6-10 13L2 9z\"/><path d=\"M11 3 8 9l4 13 4-13-3-6\"/><path d=\"M2 9h20\"/></svg>"
+  }
+}
