@@ -2,6 +2,8 @@
 
 This project is a demonstration of inline SVG functionality with modern editor based on ProseMirror.
 
+***Live Demo***: [https://icon-flow.vercel.app](https://icon-flow.vercel.app)
+
 ## Overview
 
 A proof-of-concept showcasing how to integrate inline SVG icons within a ProseMirror-based editor, providing seamless icon insertion and rendering capabilities.
